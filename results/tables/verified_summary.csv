@@ -1,0 +1,21 @@
+metric,value,scope
+frames,3600,one 120-second segment at 30 fps
+sampled_frames,475,current-attack gate audit
+strongly_behind_before_percent,4.8,prior soft-gate resolved selections
+strongly_behind_after_percent,0.0,current hard-gate resolved selections
+ahead_or_level_before_percent,53.3,prior soft-gate resolved selections
+ahead_or_level_after_percent,64.4,current hard-gate resolved selections
+eligible_primary_resolved_percent,21.9,104 of 475 frames
+possession_or_ball_uncertain_percent,64.8,308 of 475 frames
+known_context_no_eligible_percent,13.3,63 of 475 frames
+demo_frames,601,frames 440 through 1040 inclusive
+demo_resolved_primary_frames,48,multi-region audit
+three_region_share_percent,44,21 of 48 resolved frames
+two_region_share_percent,48,23 of 48 resolved frames
+one_region_share_percent,8,4 of 48 resolved frames
+dedup_merged_cases,47,of 48 resolved frames
+improving_bounded_frames,3,full 3600-frame scan
+illustrated_move_m,3.0,frame 2233
+illustrated_severity_reduction,0.00775,frame 2233
+illustrated_new_gap_penalty,0,frame 2233
+illustrated_net_benefit,0.01326,frame 2233

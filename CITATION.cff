@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "The complete author list is not finalized. Cite this public release after authorship is confirmed."
+title: "Closing the Gap: Attack-Gated Space Control and Bounded Counterfactual Repositioning in Soccer"
+type: software
+version: 0.1.0-provisional
+date-released: 2026-09-27
+authors:
+  - family-names: Halder
+    given-names: Rupayan
+repository-code: "https://github.com/RupayanHalder39/MitSloanProblem7_Dangerous_Space_Repositioning_Football"
+abstract: "A research prototype for attack-gated dangerous-space detection and bounded single-defender counterfactual repositioning."
+keywords:
+  - football analytics
+  - dangerous space
+  - Voronoi
+  - counterfactual repositioning

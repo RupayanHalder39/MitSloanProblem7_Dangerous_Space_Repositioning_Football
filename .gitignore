@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.venv/
+data/private/
+*.parquet
+*.pkl
+*.pickle
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.db
+*.sqlite*
